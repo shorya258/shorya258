@@ -18,4 +18,4 @@
 
 [twitter]: https://twitter.com/shoryahayaran
 [instagram]: https://instagram.com/shhoryaaaa/
-[linkedin]: www.linkedin.com/in/shorya-hayaran-159arcz
+[linkedin]: https://www.linkedin.com/in/shorya-hayaran-159arcz/
