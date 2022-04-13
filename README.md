@@ -3,8 +3,8 @@
 ## I'm a B.TECH CSE student!!
 
 - 🍁 I’m currently trying to explore different aspects of tech😅
-- 🥅 2021 goals: learn more about web dev, contribute to open source orgs 
-- ❄ Fun fact: I love to read mystery, horror, thriller and philosophical genres, play chess, watch cat or dog videos, listen songs.
+- 🥅 2022 goals: learn more about web dev, contribute to open source orgs 
+- ❄ Fun fact: Apart from coding, thriller genre cinema, all kinda songs, dog videos are <3 .
 
 ### Connect with me:
 
