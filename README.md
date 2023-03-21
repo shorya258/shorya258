@@ -3,7 +3,7 @@
 ## I'm a B.TECH CSE student!!
 
 - 🍁 I’m currently trying to explore different aspects of tech😅
-- 🥅 2022 goals: learn more about web dev, contribute to open source orgs 
+- 🥅 2023 goals: learn more about web dev, contribute to open source orgs 
 - ❄ Fun fact: Apart from coding, thriller genre cinema, all kinda songs, dog videos are <3 .
 
 ### Connect with me:
