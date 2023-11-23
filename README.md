@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **developing my skills in full stack web development**
 
-- 🌱 I’m currently learning **typescript, jest**
+- 🌱 I’m currently learning **next.js, typescript, jest**
 
 - 👯 I’m looking to collaborate on **web projects that enhance user experience and provide usability with efficiency**
 
